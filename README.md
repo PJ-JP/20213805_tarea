@@ -1,1 +1,1 @@
-Jeanpier Gutierrez Hurtado: http://github.com/usuario/repositorio.git
+Jeanpier Gutierrez Hurtado: https://github.com/PJ-JP/20213805_tarea.git
